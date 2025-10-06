@@ -41,5 +41,19 @@
 ---
 
 ### 🐦 Mini Game ASCII: “Burung Terbang”
+
+    ✈️  Tekan [space] untuk terbang lebih tinggi!
+    
+    +----------------------------------------+
+    |                                        |
+    |        🕊️                              |
+    |                                        |
+    |                   🌳                   |
+    |        🌳               🌳             |
+    |                                        |
+    +----------------------------------------+
+
+    Skor: 0035 | Level: 2 | Status: Terbang tinggi 🚀
+
 > *Game versi teks (terminal mode) — Tekan `space` (dalam imajinasi 😄)*
 
