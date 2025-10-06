@@ -1,20 +1,12 @@
-<!-- 🌌 README Futuristik by Felix F. Chesta Adabi -->
+<!-- 🌟 Profil README by Felix F. Chesta Adabi -->
 
-<h1 align="center" style="font-family: 'Orbitron', sans-serif;">
-  👋 Halo Dunia! Saya <span style="color:#00e5ff;">Felix F. Chesta Adabi</span>
-</h1>
+<h1 align="center">👋 Halo Dunia! Saya <span style="color:#00bcd4;">Felix F. Chesta Adabi</span></h1>
 
 <p align="center">
-  <img src="https://github.com/felixfauzichestaadabi-sketch/Metkom25lop/blob/4289fa446ade6bea93f84b00f9bc35c2329fbf60/WhatsApp-Image-2025-01-23-at-095552-1767835158.webp" width="220" style="border-radius: 20px; box-shadow: 0 0 20px #00e5ff;">
+  <img src="https://github.com/felixfauzichestaadabi-sketch/Metkom25lop/blob/4289fa446ade6bea93f84b00f9bc35c2329fbf60/WhatsApp-Image-2025-01-23-at-095552-1767835158.webp" width="230" style="border-radius: 15px;">
 </p>
 
-<p align="center"><i>"Ngoding sambil ngopi, terbang tinggi bersama ide futuristik."</i> ☕🪶</p>
-
----
-
-<p align="center">
-  <img src="https://i.ibb.co/N2cKQ0L/futuristic-blue-city.jpg" width="90%" style="border-radius: 15px; box-shadow: 0 0 20px #00e5ff;" alt="Futuristic City Banner">
-</p>
+<p align="center"><i>"Ngoding sambil ngopi, error pun terasa lebih nikmat (kadang)."</i> ☕</p>
 
 ---
 
@@ -22,38 +14,67 @@
 - 🎓 Sedang berjuang memahami **Git & GitHub**, biar gak lagi salah `push` ke branch orang 😅  
 - 💻 Suka banget sama **Data Science**, meski kadang datanya yang malah suka sama aku 📊  
 - 🌱 Terobsesi mencoba hal baru (terutama yang bisa bikin laptop kipasnya teriak 🔥)  
-- 🧠 Motto hidup: *"Kalau bisa diotomasi, kenapa harus manual?"*
-- ⚡ Motto pribadi: *“Code. Create. Coffee. Repeat.”*
+- 🤖 Pecinta dunia futuristik, AI, dan game retro pixel 🎮  
 
 ---
 
-### ⚙️ Tools & Tech Stack
+### 🛠️ Apa yang Sedang Dikerjakan
+- 📚 Membangun repository buat **tugas kuliah**  
+- ⚙️ Latihan workflow Git (kadang `merge conflict` malah bikin belajar lebih cepat 😎)  
+- 💡 Eksperimen bikin **mini game Flappy Bird versi Python** (masih sering nabrak tiang 🐦)
+
+---
+
+### 🌈 Grafik Aktivitas
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,html,css,js,cpp,mysql,figma,arduino" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=felixfauzichestaadabi-sketch&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Coffee-Powered-%23b5651d?style=for-the-badge&logo=coffeescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Explorer-%2300e5ff?style=for-the-badge&logo=openai&logoColor=black" />
-  <img src="https://img.shields.io/badge/Data%20Science%20Nerd-%230081cb?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=felixfauzichestaadabi-sketch&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixfauzichestaadabi-sketch&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="335"/>
 </p>
 
 ---
 
-### 🐦 Mini Game ASCII: “Burung Terbang”
+### 🕹️ Mini Game (Flappy Bird Mode)
 
-    ✈️  Tekan [space] untuk terbang lebih tinggi!
-    
-    +----------------------------------------+
-    |                                        |
-    |        🕊️                              |
-    |                                        |
-    |                   🌳                   |
-    |        🌳               🌳             |
-    |                                        |
-    +----------------------------------------+
+> 🎮 Klik gambar di bawah untuk main versi web-nya!  
+> *(Dibuat pakai HTML5 + JavaScript oleh komunitas open source)*
 
-    Skor: 0035 | Level: 2 | Status: Terbang tinggi 🚀
+<p align="center">
+  <a href="https://flappybird.io/" target="_blank">
+    <img src="https://media.giphy.com/media/YOkrK7OTl3YFJhb5wJ/giphy.gif" width="300" alt="Flappy Bird GIF"/>
+  </a>
+</p>
 
-> *Game versi teks (terminal mode) — Tekan `space` (dalam imajinasi 😄)*
+---
 
+### ✨ Karya & Eksperimen
+- 🔭 [Metkom25lop Project](https://github.com/felixfauzichestaadabi-sketch/Metkom25lop)  
+- 🌌 [AI Sketch Lab (soon...)](#)
+
+---
+
+### ⚡ Fun Fact Futuristik
+> “Di masa depan, ngoding mungkin cukup dengan berpikir — tapi error tetap akan datang dari pikiran yang salah.” 🤯  
+
+---
+
+### 🌐 Terhubung Dengan Saya
+<p align="center">
+  <a href="https://github.com/felixfauzichestaadabi-sketch"><img src="https://img.shields.io/badge/GitHub-FelixFauziChestaAdabi-181717?style=for-the-badge&logo=github"></a>
+  <a href="mailto:felixchesta@example.com"><img src="https://img.shields.io/badge/Email-felixchesta%40example.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/felixchesta"><img src="https://img.shields.io/badge/LinkedIn-Felix%20Chesta-blue?style=for-the-badge&logo=linkedin"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/felixfauzichestaadabi-sketch/felixfauzichestaadabi-sketch/blob/main/assets/futuristic-banner.gif" width="600" alt="Banner Animasi Futuristik">
+</p>
+
+---
+
+⭐ *Terima kasih sudah mampir! Klik bintang kalau kamu suka gaya futuristik ini 🚀*
